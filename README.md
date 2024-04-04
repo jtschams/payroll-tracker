@@ -6,9 +6,13 @@ This repository was made for the purpose of adding javascript functions to an ex
 
 ## Visuals
 
-!(The website before interaction)[.assets/images/clean.png]
+![The website before interaction](.assets/images/clean.png)
 
-!(The website after entering employees)[.assets/images/active.png]
+![The website after entering employees](.assets/images/active.png)
+
+## Usage
+
+On clicking Add Employees button, user will be prompted to add employee first name, last name, and salary.  A salary that is not entered as a number will be re-prompted to enter, and an employee missing a first or last name will not be saved.  Once complete, user will be asked if they would like to add and additional employee.  Once user finishes adding employees, they will be displayed in a table.  The developer console can be opened to view their average salary and a drawing winner randomly selected from the entered employees.
 
 ## Technologies Used
 
