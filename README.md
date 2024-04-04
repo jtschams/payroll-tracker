@@ -6,9 +6,9 @@ This repository was made for the purpose of adding javascript functions to an ex
 
 ## Visuals
 
-![The website before interaction](.assets/images/clean.png)
+![The website before interaction](./assets/images/clean.png)
 
-![The website after entering employees](.assets/images/active.png)
+![The website after entering employees](./assets/images/active.png)
 
 ## Usage
 
